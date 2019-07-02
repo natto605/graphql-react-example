@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "apollo-server-koa": "^2.6.7",
+    "graphql": "^14.4.1",
+    "graphql-tools": "^4.0.5",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "nodemon": "^1.19.1"
+  },
+  "scripts": {
+    "start": "nodemon app"
+  }
+}
