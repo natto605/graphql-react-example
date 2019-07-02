@@ -1,0 +1,11 @@
+.container {
+  margin: 20px;
+}
+
+.container .form-area {
+  margin-bottom: 20px;
+}
+
+.container .form-area button {
+  margin-right: 10px;
+}
