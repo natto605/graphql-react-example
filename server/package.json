@@ -6,7 +6,10 @@
     "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
     "koa-router": "^7.4.0",
-    "nodemon": "^1.19.1"
+    "nodemon": "^1.19.1",
+    "qs": "^6.9.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5"
   },
   "scripts": {
     "start": "nodemon app"
